@@ -1,0 +1,5 @@
+n1=int(input("Primer número:"))
+n2=int(input("Segundo número:"))
+n3=int(input("Tercer número:"))
+n4=int(input("Cuarto número:"))
+print("El promedio de los cuatro es", (n1+n2+n3+n4)/4)
